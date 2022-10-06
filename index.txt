@@ -1,0 +1,199 @@
+Keofi - Great coffee good vibes
+
+This is a coffee shop html template made by codewithsadee
+
+
+
+#---------- HEADER ----------#
+
+<ion-icon name="time-outline" aria-hidden="true"></ion-icon>
+Opening Hours :
+08:00 Am - 09:00 Pm
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-youtube"></ion-icon>
+
+<ion-icon name="location-outline" aria-hidden="true"></ion-icon>
+Location :
+55 Main Street, New York
+
+alt = keofi home
+
+Home
+About
+Menu
+Blog
+Contacts
+
+Book A Table
+
+aria-label = open menu
+
+
+
+#---------- HERO ----------#
+
+Welcome to the keofi
+
+Great Coffee Good Vibes
+
+Explore more
+<ion-icon name="chevron-forward" aria-hidden="true"></ion-icon>
+
+Get delivery
+
+
+
+#---------- ABOUT ----------#
+
+About Us
+
+Organic & Fresh Coffee Provider Center
+
+Sed ut perspiciatis unde omnis iste natus error voluptate accusantium doloremque laudantium, totam rem aperiam eaque ipsa quae abillo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsluptatem quia voluptas sit aspernatur aut odit aut fugit sed quia consequuntur magni dolores eos qui ratione
+
+alt = john doe
+Quis autem vel eum iure reprehenderit in ealuptate velit esse molestiae
+
+alt = about banner
+
+
+
+#---------- SERVICE ----------#
+
+alt = Restaurant Menu
+
+<ion-icon name="restaurant-outline" aria-hidden="true"></ion-icon>
+Restaurant Menu
+
+alt = Coffee Menu
+
+<ion-icon name="cafe-outline" aria-hidden="true"></ion-icon>
+Coffee Menu
+
+alt = Food Services
+
+<ion-icon name="wine-outline" aria-hidden="true"></ion-icon>
+Food Services
+
+
+
+#---------- MENU ----------#
+
+Choose Best Coffee
+
+Kaffen Popular Coffee Menu
+
+Americano Coffee
+2/3 espresso, 1/3 streamed milk
+$4.9
+
+Espresso Coffee
+
+Barista Pouring Syrup
+$3.5
+
+Cold - Coffee
+$6.0
+
+Cappuccino Arabica
+$2.8
+
+Milk Cream Coffee
+$7.5
+
+
+
+#---------- FEATURE ----------#
+
+alt = feature banner
+
+Why Choose Us
+
+New London Coffee Founded For Extraordinary Test
+
+Sed ut perspiciatis unde omnis iste natus error voluptate accusantium doloremque laudantium, totam rem aperiam eaque ipsa quae abillo inventore veritatis
+
+alt = feature icon
+
+Natural Coffee Beans
+
+Sed ut perspiciatis unde omnis iste natus error voluptate accusantium doloremque
+
+100% ISO Certification
+
+Explore More
+<ion-icon name="chevron-forward" aria-hidden="true"></ion-icon>
+
+
+
+#---------- BLOG ----------#
+
+Get Every Single Update
+
+Read Some Latest Blog & News
+
+SWR React Hooks With Next Increm Ental Static Regeneration
+
+<ion-icon name="calendar-outline" aria-hidden="true"></ion-icon>
+25 Sep 2022
+
+<ion-icon name="chatbubbles-outline" aria-hidden="true"></ion-icon>
+Comments (7)
+
+Decisions For Building Flexible Components DevTools Browser
+
+SWR React Hooks With Next Increm Ental Static Regeneration
+
+View All
+<ion-icon name="chevron-forward" aria-hidden="true"></ion-icon>
+
+
+
+#---------- CTA ----------#
+
+Need A Table On Coffee House
+
+Booking Table For Your & Family Members
+
+Booking Table
+<ion-icon name="chevron-forward" aria-hidden="true"></ion-icon>
+
+
+
+#---------- FOOTER ----------#
+
+
+alt = Keofi home
+
+Working Hours
+
+Sunday - Thursday
+08:00 am - 09:00pm
+
+Only Friday
+03:00 pm - 09:00pm
+
+Saturday Close
+
+Contact Us
+
+<ion-icon name="location-outline" aria-hidden="true"></ion-icon>
+Location :
+55 Main Street, New York
+
+<ion-icon name="mail-unread-outline" aria-hidden="true"></ion-icon>
+Email Address :
+keofi@gmail.com
+
+<ion-icon name="call-outline" aria-hidden="true"></ion-icon>
+Phone Number :
++012 (345) 678 99
+
+Gallery
+
+alt = Gallery
+
+Copyright © 2022 codewithsadee. All Rights Reserved.
